@@ -42,4 +42,4 @@ When applied to letters in a word, a _Markov mode_ is a mathematical model that 
 - Map each word in the corpus to the word after (Markov model order 1)
 - Map each word pair in corpus to the word after (Markov model order 2)
 - Give user choice of generating full haiku, redoing lines 2 or 3 or exiting
-- TODO: Finish here.
+- TODO: Finish the rest of pseudocode
